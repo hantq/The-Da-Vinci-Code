@@ -1,0 +1,11 @@
+{
+  "name": "The Da Vinci Code",
+  "description": "A tile-based game for 2-4 people.",
+  "version": "0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 960,
+    "height": 640
+  }
+}
