@@ -1,11 +1,26 @@
 {
-  "name": "The Da Vinci Code",
+  "name": "the-da-vinci-code",
+  "version": "0.0.1",
   "description": "A tile-based game for 2-4 people.",
-  "version": "0.1",
-  "main": "index.html",
-  "window": {
-    "toolbar": false,
-    "width": 960,
-    "height": 640
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hantq/The-Da-Vinci-Code.git"
+  },
+  "keywords": [
+    "Game",
+    "Electron"
+  ],
+  "author": "hantq <hantq90@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hantq/The-Da-Vinci-Code/issues"
+  },
+  "homepage": "https://github.com/hantq/The-Da-Vinci-Code#readme",
+  "devDependencies": {
+    "electron": "^1.6.11"
   }
 }
